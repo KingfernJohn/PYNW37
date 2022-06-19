@@ -5,7 +5,7 @@ With little knowledge of Python you can add cryptocurrencies.
 
 # NW37 - Live Data
 
-![image](https://user-images.githubusercontent.com/49335210/174479420-9364061c-1939-46d5-b40d-2bea4051021f.png) ![image](https://user-images.githubusercontent.com/49335210/174479431-53da0521-e893-4e38-832e-1809dcfb39fc.png)
+![image](https://user-images.githubusercontent.com/49335210/174479420-9364061c-1939-46d5-b40d-2bea4051021f.png)                 ![image](https://user-images.githubusercontent.com/49335210/174479431-53da0521-e893-4e38-832e-1809dcfb39fc.png)
 
 # NW37 - Cached Data
 
