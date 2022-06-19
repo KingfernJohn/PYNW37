@@ -10,6 +10,7 @@ With little knowledge of Python you can add cryptocurrencies.
 # NW37 - Cached Data
 
 ![image](https://user-images.githubusercontent.com/49335210/174479513-a89f5444-e684-42c1-ab68-abc9ed2db79d.png)
+*/NW37/src/coins*
 
 # NW37 - Installing
 
