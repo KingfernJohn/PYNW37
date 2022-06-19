@@ -194,7 +194,7 @@ def loop_get():
         print(colored("[ETH]\t","blue")+colored(f"{new_eth}","green")+colored(f" - {round(old_eth-new_eth,2)}","red"))
     else:
         if old_eth < new_eth:
-            etj_red = False
+            eth_red = False
             print(colored("[ETH]\t","blue")+colored(f"{new_eth}","red")+colored(f" + {round(new_eth-old_eth,2)}","green"))
         else:
             if old_eth == new_eth:
